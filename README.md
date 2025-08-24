@@ -1,4 +1,4 @@
-🌟 Hi, I’m Akshat Agrawal! 👋
+ Hi, I’m Akshat Agrawal! 👋
 
 🚀 Full Stack Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer
 
@@ -12,13 +12,7 @@ Languages:
 JavaScript TypeScript Python C++
 
 Frontend:
-React.js Next.js ShadCN/UI TailwindCSS
-
-Backend:
-Node.js Express.js Firebase JWT Auth
-
-Databases & Cloud:
-MongoDB PostgreSQL AWS Firebase DynamoDB
+React.js TailwindCSS
 
 Other Tools:
-Git/GitHub Docker Postman Tableau
+Git/GitHub Tableau
