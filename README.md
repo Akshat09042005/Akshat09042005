@@ -1,16 +1,24 @@
-## Hi there 👋
+🌟 Hi, I’m Akshat Agrawal! 👋
 
-<!--
-**Akshat09042005/Akshat09042005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | ☁️ Cloud Enthusiast | 📊 Data Explorer
 
-Here are some ideas to get you started:
+I’m passionate about building scalable web applications, working with cloud technologies, and exploring data visualization tools like Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🔧 Tech Stack
+
+Languages:
+JavaScript TypeScript Python C++
+
+Frontend:
+React.js Next.js ShadCN/UI TailwindCSS
+
+Backend:
+Node.js Express.js Firebase JWT Auth
+
+Databases & Cloud:
+MongoDB PostgreSQL AWS Firebase DynamoDB
+
+Other Tools:
+Git/GitHub Docker Postman Tableau
